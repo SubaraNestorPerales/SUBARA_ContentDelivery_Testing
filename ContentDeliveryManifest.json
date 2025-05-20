@@ -1,0 +1,10 @@
+{
+  "$type": "SW.Modules.Services.ContentDeliveryService.ContentDeliveryListOfAssetsToDownload, SW.ContentDeliveryService",
+  "ListOfAssets": [
+    {
+      "$type": "SW.Modules.Services.ContentDeliveryService.ContentDeliveryAssetToDownload, SW.ContentDeliveryService",
+      "Name": "bundle1",
+      "Version": "v001"
+    }
+  ]
+}
