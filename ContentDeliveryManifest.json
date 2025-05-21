@@ -3,7 +3,7 @@
   "ListOfAssets": [
     {
       "$type": "SW.Modules.Services.ContentDeliveryService.ContentDeliveryAssetToDownload, SW.ContentDeliveryService",
-      "Name": "bundleFlameBusters",
+      "Name": "bundleflamebusters",
       "Version": "v001",
       "Hash": "5ff6efbaeb9a9ea5d7a928c4ec83ea71"
     }
