@@ -5,7 +5,8 @@
       "$type": "SW.Modules.Services.ContentDeliveryService.ContentDeliveryAssetToDownload, SW.ContentDeliveryService",
       "Name": "bundleflamebusters",
       "Version": "v001",
-      "Hash": "5ff6efbaeb9a9ea5d7a928c4ec83ea71"
+      "Hash": "92bd83ca4fb405244ff58e5e8eb9386f",
+      "FileSize": 0.3
     }
   ]
 }
